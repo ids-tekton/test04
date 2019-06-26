@@ -1,1 +1,4 @@
 #Fill in dependencies here
+pytorch
+numpy
+pandas
